@@ -6,3 +6,5 @@ As per HCP rules I cannot share the raw data, and to fully replicate it is neces
 
 If you have questions drop me a message or email me and I'll help if I can.
 Colin Hawco
+
+Edit March 2024, soemthing broke and the main fucntion got overwrittn with a very incomplete version. I am sad and confused. 
